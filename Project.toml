@@ -1,0 +1,24 @@
+name = "z5_jll"
+uuid = "c9251380-99b7-5c1d-a474-9aaf727e38ce"
+version = "2.0.17+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Bzip2_jll = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Blosc_jll = "0b7ba130-8d10-5ba8-a3d6-c5182647fed9"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Lz4_jll = "5ced341a-0733-55b8-9ab6-a4889d929147"
+XZ_jll = "ffd25f8a-64ca-5728-b0f7-c24cf3aae800"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Bzip2_jll = "1.0.8"
+Zlib_jll = "1.2.12"
+Blosc_jll = "1.21.1"
+Libdl = "1"
+Lz4_jll = "1.9.3"
+XZ_jll = "5.2.5"
+Artifacts = "1"

@@ -1,0 +1,6 @@
+[z5]
+git-tree-sha1 = "301728f91e72c3b1410e45357eee8cd09a5dac21"
+
+    [[z5.download]]
+    sha256 = "aa76910e10fadf49795cc61fde82386dd0a9b1568f4b69ef879d5248ac444b5c"
+    url = "https://github.com/JuliaBinaryWrappers/z5_jll.jl/releases/download/z5-v2.0.17+0/z5.v2.0.17.any.tar.gz"
